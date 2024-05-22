@@ -37,7 +37,7 @@ for numero in range(1, turma + 1):
 media_impar = nota_total_impar / alunos_impares
 print(f"A média dos alunos ímpares é de {media_impar:.2f}")
 media_par = nota_total_par / alunos_pares
-print(f"A media dos alunos pares é de {media_par:.2f}")
+print(f"A média dos alunos pares é de {media_par:.2f}")
 
 # Logica para a média:
 
